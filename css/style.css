@@ -196,7 +196,7 @@ img.inst-you:hover, img.inst-you:active {height: 60px;}
     height: 300px;
    font-family: "Ubuntu";
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: -50px;
 }
 
 .content_image {
