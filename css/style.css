@@ -279,9 +279,8 @@ img.inst-you:hover, img.inst-you:active {height: 60px;}
     width: 100%;
 }
 
-gallery img {
-    height: 100%;
-    width: 100%;
+.gallery img {
+    width: 50%;
 }
 
 #map {
