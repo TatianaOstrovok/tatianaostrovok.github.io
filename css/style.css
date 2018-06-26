@@ -242,6 +242,7 @@ img.inst-you:hover, img.inst-you:active {height: 60px;}
 .link-style {
     float: left;
     margin-top: 30px;
+    margin-left:-50%;
     font-size: 1.5em;
     color: #5c1a74;
 }
@@ -276,6 +277,13 @@ img.inst-you:hover, img.inst-you:active {height: 60px;}
 }
 .gallery {
     float: left;
+    margin-left: -50%;
+    height:20%;
+}
+
+figure img {
+    height: 100%;
+    width: 100%;
 }
 
 #map {
