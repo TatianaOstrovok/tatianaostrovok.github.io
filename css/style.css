@@ -273,6 +273,9 @@ img.inst-you:hover, img.inst-you:active {height: 60px;}
     font-weight: bold;
     margin-top: 20px;
 }
+.gallery {
+    float: left;
+}
 
 #map {
    width: 100%;
