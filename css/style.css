@@ -391,6 +391,7 @@ img.inst-you:hover, img.inst-you:active {height: 40px;}
 }
     #text-position{
         margin-left: 0;
+        width: 90%;
     }
     .right_col{
     margin-top: 0px;
@@ -434,9 +435,8 @@ img.inst-you:hover, img.inst-you:active {height: 40px;}
 
 .map-position {
     display: flex;
-    margin-top: 250px;
-    margin-left: -106%;
- .   
+    margin-top: 265px;
+    margin-left: -97%;
 }
     #map {
    width: 100%;
