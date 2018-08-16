@@ -435,6 +435,21 @@ img.inst-you:hover, img.inst-you:active {height: 40px;}
     text-align: none;
 }
 
+    .gallery {
+    width: 100%;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    padding-left:2%;
+}
+
+.gallery img {
+    width: 45%;
+    padding: 1%;
+}
+
     
 .email {
     font-weight: bold;
