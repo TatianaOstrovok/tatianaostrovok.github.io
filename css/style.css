@@ -410,7 +410,7 @@ img.inst-you:hover, img.inst-you:active {height: 40px;}
 }
 .content_image {
     margin-top: 6%;
-    margin-left: 2%;
+    margin-left: 1%;
     display: block;
     max-width: 100%; 
     max-height: auto;                                    /*Could be a fix to a responsive image*/
