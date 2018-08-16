@@ -403,12 +403,11 @@ img.inst-you:hover, img.inst-you:active {height: 40px;}
     width: 100%;
 }
 .content_image {
-    margin-top: 10%;
+    margin-top: 6%;
     margin-left: 2.5%;
-    display: inline-block;
-    max-width: 46%; 
-    max-height: auto;
-    width: 100%;                                    /*Could be a fix to a responsive image*/
+    display: block;
+    max-width: 100%; 
+    max-height: auto;                                    /*Could be a fix to a responsive image*/
     height: auto;
 }
 
