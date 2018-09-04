@@ -63,6 +63,21 @@ li {
     right: 4.7%;
     position: fixed;
 }
+
+.top_line {
+    position: absolute;
+    top: 6%;
+    width: 30%;
+}
+
+.faq {
+    margin-left: 10%;
+    font-family: "Neucha";
+    color: #4c4c94;
+    font-size: 2vw;
+    display: inline;
+}
+  
   
    
                               /*small extra padding so it has some space from the sides*/}
@@ -306,6 +321,9 @@ img.inst-you:hover, img.inst-you:active {height: 60px;}
 
 
 @media (max-width: 600px) {
+    .img_header {
+        margin-top: 5%;
+    }
     #main-nav {
     display: flex;
     /*border: 5px solid  mediumslateblue ;*/         /*Removed border, used for Testing*/
@@ -314,7 +332,21 @@ img.inst-you:hover, img.inst-you:active {height: 60px;}
     margin: 3px 18px;
     
 }
+    
+.top_line {
+    position: absolute;
+    top:5%;
+    width: 30%;
+}
 
+.faq {
+    margin-left: 10%;
+    font-family: "Neucha";
+    color: #4c4c94;
+    font-size: 4vw;
+    display: block;
+    margin-top: 3%;
+}
 .nav_button {
     color:black;
     font-size: 4vw;
