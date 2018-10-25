@@ -58,10 +58,13 @@ li {
 
 
 .tele_header {
+    display: flex;
+    flex-direction: column;
     width: 5%;
     top: 30%;
     right: 4.7%;
     position: fixed;
+    
 }
 
 .top_line {
