@@ -12,7 +12,7 @@ a {
 }
 
 p + p, li + li {
-    margin-top: 11.5px;                           /*space between paragraphs*/
+    margin-top: 13px;                           /*space between paragraphs*/
 }
 li {
     font-size: 14px;
